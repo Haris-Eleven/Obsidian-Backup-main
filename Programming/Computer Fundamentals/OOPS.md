@@ -1,0 +1,5 @@
+1. ***Abstraction*** means **hiding the complex internal details** and **showing only the necessary features** of an object.
+2. ***Encapsulation*** means **bundling data (variables)** and **methods (functions)** together in one unit (class), and **restricting direct access** to some parts.
+3. ***Inheritance*** allows one class (**child**) to **inherit properties and methods** from another class (**parent**).
+4. ***Polymorphism*** often **uses inheritance** where **child classes modify or override methods** from the **parent class** to behave differently. **Polymorphism** means **"many forms"** — a method behaves differently based on the object that calls it.
+5. ***Function Overloading*** means: **Same function name**, but **different parameters** (number or type). The **compiler decides** which version of the function to call **based on the arguments** you pass. This is called **Compile-time Polymorphism**. 

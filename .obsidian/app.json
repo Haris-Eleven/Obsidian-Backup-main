@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "/attachments",
+  "tabSize": 4,
+  "vimMode": false,
+  "livePreview": true,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

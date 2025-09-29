@@ -1,0 +1,5 @@
+---
+excalidraw-plugin: raw
+---
+%% Drawing
+{"type":"excalidraw","version":2,"source":"https://excalidraw.com","elements":[],"appState":{"viewBackgroundColor":"#ffffff","gridSize":null},"files":{}}

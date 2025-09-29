@@ -1,0 +1,33 @@
+/* Make the entire embed block full width */
+.markdown-embed {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+}
+
+/* Specifically target Excalidraw embeds inside embeds */
+.markdown-embed .excalidraw-view {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+/* If the SVG still has a fixed width, force it to scale */
+.markdown-embed .excalidraw-view svg {
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+}
+
+/* Optional: remove default padding around the drawing */
+.markdown-embed-content {
+  padding: 0 !important;
+}
+
+.nav-folder .collapse-icon {
+  width: 7px;
+  /* display: none !important; */
+}

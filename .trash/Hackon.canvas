@@ -1,0 +1,747 @@
+{
+  "edges": [
+    {
+      "fromNode": "df8d281666aface4",
+      "fromSide": "bottom",
+      "id": "cf069e15cc73f4c6",
+      "styleAttributes": {
+      },
+      "toNode": "4ffdcc8bfb9dd512",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3de69f8ca1ab6a64",
+      "fromSide": "bottom",
+      "id": "e18ba50d2f4b36b2",
+      "styleAttributes": {
+      },
+      "toNode": "f25959c7dc8ec0ac",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "701eb55f52dfc802",
+      "fromSide": "bottom",
+      "id": "b3547e587d6f1cb0",
+      "styleAttributes": {
+      },
+      "toNode": "537ec1d68e198db3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "af294250a2d903e9",
+      "fromSide": "bottom",
+      "id": "079be655afcbdc15",
+      "styleAttributes": {
+      },
+      "toNode": "859aadf703eb795f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "381a14c20fab3b41",
+      "fromSide": "bottom",
+      "id": "360fb2875f8dec0a",
+      "styleAttributes": {
+      },
+      "toNode": "607b06c71ce3102a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "dbd497c2d09c2732",
+      "fromSide": "bottom",
+      "id": "31ee97123e27f4ac",
+      "styleAttributes": {
+      },
+      "toNode": "05e0664e8c5991ba",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d622a25e1329de39",
+      "fromSide": "bottom",
+      "id": "84d452056d2610c8",
+      "styleAttributes": {
+      },
+      "toNode": "4542af2b40899669",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4542af2b40899669",
+      "fromSide": "bottom",
+      "id": "7c0bddd064ccbc37",
+      "styleAttributes": {
+      },
+      "toNode": "b0066b05553e5bbc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b0066b05553e5bbc",
+      "fromSide": "bottom",
+      "id": "7a48255ec741bad4",
+      "styleAttributes": {
+      },
+      "toNode": "df8d281666aface4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b0066b05553e5bbc",
+      "fromSide": "bottom",
+      "id": "e71e2cf351371039",
+      "styleAttributes": {
+      },
+      "toNode": "701eb55f52dfc802",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b0066b05553e5bbc",
+      "fromSide": "bottom",
+      "id": "f844f9c36d84206f",
+      "styleAttributes": {
+      },
+      "toNode": "af294250a2d903e9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b0066b05553e5bbc",
+      "fromSide": "bottom",
+      "id": "b418feda418e4e62",
+      "styleAttributes": {
+      },
+      "toNode": "381a14c20fab3b41",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b0066b05553e5bbc",
+      "fromSide": "bottom",
+      "id": "91b0160aa37a9b47",
+      "styleAttributes": {
+      },
+      "toNode": "dbd497c2d09c2732",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "dd9ee00bdab895d5",
+      "fromSide": "bottom",
+      "id": "b9ab4b5e628d43a6",
+      "styleAttributes": {
+      },
+      "toNode": "383c54bbf0384985",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "383c54bbf0384985",
+      "fromSide": "bottom",
+      "id": "b969265d651d6ad9",
+      "styleAttributes": {
+      },
+      "toNode": "683310ef74cf2500",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4b24fa6bd5a39461",
+      "fromSide": "bottom",
+      "id": "82b217291eea79c1",
+      "styleAttributes": {
+      },
+      "toNode": "054f446a42af7007",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1914c1c18dba7066",
+      "fromSide": "bottom",
+      "id": "ccce06c2679a579d",
+      "styleAttributes": {
+      },
+      "toNode": "054f446a42af7007",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "acc6941a40866b08",
+      "fromSide": "bottom",
+      "id": "25e2d4dccb1f0314",
+      "styleAttributes": {
+      },
+      "toNode": "82c348a13bd763c2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "51e01dd59408ef46",
+      "fromSide": "bottom",
+      "id": "b601fb6c5151baeb",
+      "styleAttributes": {
+      },
+      "toNode": "ee69aa3492213e8a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c04c3f06ee7f7154",
+      "fromSide": "bottom",
+      "id": "3f0b7a99c1c7ee6b",
+      "styleAttributes": {
+      },
+      "toNode": "b6023617c386889f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a3c9c57eef213cc0",
+      "fromSide": "bottom",
+      "id": "08abced4b6a0a734",
+      "styleAttributes": {
+      },
+      "toNode": "89fcc27f5e5e7edb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "683310ef74cf2500",
+      "fromSide": "bottom",
+      "id": "9d22cf84f1c58db7",
+      "styleAttributes": {
+      },
+      "toNode": "4b24fa6bd5a39461",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "683310ef74cf2500",
+      "fromSide": "bottom",
+      "id": "dce7537a36937e20",
+      "styleAttributes": {
+      },
+      "toNode": "1914c1c18dba7066",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "683310ef74cf2500",
+      "fromSide": "bottom",
+      "id": "212b3c13284a4414",
+      "styleAttributes": {
+      },
+      "toNode": "acc6941a40866b08",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "683310ef74cf2500",
+      "fromSide": "bottom",
+      "id": "f93fd41de92b3c04",
+      "styleAttributes": {
+      },
+      "toNode": "51e01dd59408ef46",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "683310ef74cf2500",
+      "fromSide": "bottom",
+      "id": "5f8b29768f267cd2",
+      "styleAttributes": {
+      },
+      "toNode": "c04c3f06ee7f7154",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "683310ef74cf2500",
+      "fromSide": "bottom",
+      "id": "b37bcd92a36f1c8c",
+      "styleAttributes": {
+      },
+      "toNode": "a3c9c57eef213cc0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "683310ef74cf2500",
+      "fromSide": "bottom",
+      "id": "88acbbfab3f97ee5",
+      "styleAttributes": {
+      },
+      "toNode": "34ee4977ac7f674b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "683310ef74cf2500",
+      "fromSide": "bottom",
+      "id": "ca6800f643dbcb05",
+      "styleAttributes": {
+      },
+      "toNode": "0cf4d314246ce57c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "567f3f19808f2d0c",
+      "fromSide": "bottom",
+      "id": "f43dafe9f5eafb01",
+      "styleAttributes": {
+      },
+      "toNode": "facd794490a2bf34",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8db8eb9ccd1559ed",
+      "fromSide": "bottom",
+      "id": "67b0311b0177ba61",
+      "styleAttributes": {
+      },
+      "toNode": "82dff4964484c235",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "startNode": "19fb9070d0d40b2d",
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "height": 300,
+      "id": "4ffdcc8bfb9dd512",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "1. Too many options \n2. Overwhelming too decide\n3. Fatigue due to indecisiveness \n4. Bad experience not picking the right one \n5. No shared experience ",
+      "type": "text",
+      "width": 295,
+      "x": -907,
+      "y": 407
+    },
+    {
+      "height": 60,
+      "id": "df8d281666aface4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Problems\n",
+      "type": "text",
+      "width": 260,
+      "x": -882,
+      "y": 83
+    },
+    {
+      "height": 219,
+      "id": "f25959c7dc8ec0ac",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "1. Personalised Recommendations\n2. Considering Mood\n3. Suprise Me\n4. Watch Party \n5. Live Chat ",
+      "type": "text",
+      "width": 370,
+      "x": -433,
+      "y": 414
+    },
+    {
+      "height": 60,
+      "id": "3de69f8ca1ab6a64",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Scope for Innovation ",
+      "type": "text",
+      "width": 260,
+      "x": -423,
+      "y": 76
+    },
+    {
+      "height": 155,
+      "id": "537ec1d68e198db3",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "1. End users who want better viewing experience \n2. Fire Tv owners who want more users watching ",
+      "type": "text",
+      "width": 372,
+      "x": 34,
+      "y": 417
+    },
+    {
+      "height": 60,
+      "id": "701eb55f52dfc802",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Who is your customer ",
+      "type": "text",
+      "width": 260,
+      "x": 50,
+      "y": 92
+    },
+    {
+      "height": 615,
+      "id": "859aadf703eb795f",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "- 🔁 **Increase in daily content discovery** → More shows surfaced via mood/time logic\n    \n- ⏱ **Reduced time-to-play** → Less browsing = faster viewing\n    \n- 👥 **User adoption of Watch Party feature**\n    \n- ❤️ **Engagement with mood/taste-based playlists**\n    \n- 🔄 **Feedback loop usage** (users rating suggestions as relevant/irrelevant)\n    \n\n#### 🌍 Impact\n\n- **Improved viewing satisfaction** and stickiness on Fire TV\n    \n- **More social engagement** on Amazon’s content platforms\n    \n- **Better cross-platform recommendations** without needing new accounts\n    \n- Potential to expand Amazon’s user understanding via watch behavior clustering",
+      "type": "text",
+      "width": 679,
+      "x": 458,
+      "y": 306
+    },
+    {
+      "height": 60,
+      "id": "af294250a2d903e9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Success Metric  ",
+      "type": "text",
+      "width": 260,
+      "x": 628,
+      "y": 51
+    },
+    {
+      "height": 313,
+      "id": "607b06c71ce3102a",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "- Can expand beyond Fire TV to:\n    \n    - **Mobile OTT apps**\n        \n    - **Smart TVs**\n        \n    - **Browser extensions (for OTT sites)**\n        \n- ML models can scale based on:\n    \n    - Watch history size\n        \n    - Device interaction patterns\n        \n    - User clustering across regions",
+      "type": "text",
+      "width": 396,
+      "x": 1253,
+      "y": 343
+    },
+    {
+      "height": 60,
+      "id": "381a14c20fab3b41",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Scalability",
+      "type": "text",
+      "width": 260,
+      "x": 1280,
+      "y": 51
+    },
+    {
+      "height": 477,
+      "id": "05e0664e8c5991ba",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "#### 🛒 Marketplace & Partner Potential:\n\n- Integration with:\n    \n    - Prime Video, Netflix, Disney+, etc.\n        \n    - Social platforms (for invite-based watch parties)\n        \n- Monetization options:\n    \n    - Premium watch party features (pause sync, voice chat)\n        \n    - “Mood Playlists” sponsored by shows/brands\n        \n    - Content promotions based on viewer moods",
+      "type": "text",
+      "width": 445,
+      "x": 1785,
+      "y": 388
+    },
+    {
+      "height": 60,
+      "id": "dbd497c2d09c2732",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Marketplace expansion ",
+      "type": "text",
+      "width": 260,
+      "x": 1862,
+      "y": 41
+    },
+    {
+      "height": 60,
+      "id": "d622a25e1329de39",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Amazon Hackon ",
+      "type": "text",
+      "width": 260,
+      "x": 177,
+      "y": -791
+    },
+    {
+      "height": 96,
+      "id": "4542af2b40899669",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "Enhanced Fire TV experience ",
+      "type": "text",
+      "width": 301,
+      "x": 154,
+      "y": -651
+    },
+    {
+      "height": 190,
+      "id": "b0066b05553e5bbc",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "Develop a personalized content recommendation engine for Fire TV that considers mood, past behavior, and time of day. Create innovative social features for shared viewing experiences. Focus on AI-driven content recommendation and social watching across OTT platforms",
+      "type": "text",
+      "width": 552,
+      "x": 35,
+      "y": -451
+    },
+    {
+      "height": 920,
+      "id": "9fc8b16c48416ed6",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "# Intro of Seniors\n1. Customer Backward\n2. Flat Leadership\n3. Ability to work as an Entrepreneur ( Startup Mindset )\n4. Flavor of completely Different products\n5. Scale of work \n6. Culture of extreme ownership \n# About Hackathon \n1. Enhance Marketplace :\n> - Go on detail page of product on amazon\n> - Visual analysis of images (to analyse counterfiet images ) , use **rest net** .\n> -  Link sellers to product use graphql\n> -  Review Analyses \n> -  Similar Reviews (doing senantic analysis over a timeline)\n> -  Guide amazon in removing fake products and fake reviews \n\n2. Eco Friendly \n> - How to recommend eco friendly product ( during product grading )\n> - Group ordering (people from same apartment).\n> - Less travel package (optimize transportation network )\n> - Green Dashboard impact of customer \n\n3.  Fire TV experience \n> - Time waste during searching \n> - Fire TV has many ott platforms but all of them are isolated \n> - scrape all catalogue information and display at one place (Gateway page )\n> - Signals from alexa searches \n> - Social watching \n> - Depending on mood n day time \n> - Scrape information of user as well \n\n4. Improve any aspect of payments\n> - all amazon platforms have some kind of payments \n> - upi, debit, credit, etc. (too complex)\n> - Paradox of choice ( cart optimization problem which payment option to chose ) \n> - Social shopping experience ( people take adv of others )\n> - how to make payments easier for rural non upi people\n> - how to bring digital literacy \n> - During transaction if someone loses connection what wil happen \n\n# Best practices \n1. How novel & innovative is the idea \n2. Start backwards from the customer \n3. Is the idea scallable\n4. Is the idea realistic and can be implemented globally \n5. Architecture Diagram \n6. Be innovative \n# QnA \n1. Customer attachment \n2. Technology aspect\n3. Scallability aspect \n4. Why should they invest in my idea \n5. Make a strong business case \n6. Idea must be related world problem \n7. Build your own mock data \n8. AWS free tier ( student one )\n9. \n",
+      "type": "text",
+      "width": 582,
+      "x": 2471,
+      "y": -970
+    },
+    {
+      "height": 920,
+      "id": "c4694394a397690d",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "# 1. Team Details: \nTeam Name: \nTeam Members:\n1. Haris Ahmad\n2. Ashish Raj \n# 2. Theme Details \nTheme Name : Develop an AI-powered solution to recommend eco-friendly products and have a dedicated green store with optimum product grading and create customer dashboards showing their contribution to carbon footprint reduction. Include features for sustainable packaging choices and group buying to reduce environmental impact.\n\nScope for Innovation: \n- Customers want to contribute to a  greener society (\n- They have no way of knowing the impact of purchases they make on environment \n- Appealing UI that tells abt the impact of the customer \n\n- AI-powered eco-product recommender\n    \n- Green Storefront with product sustainability grades\n    \n- Customer dashboard showing carbon savings\n    \n- Sustainable packaging choices during checkout\n    \n- Group buying option for bulk reduction\n- Color grading products ( green = more greener )\nWho is my customer : \n- **Eco-conscious shopper** (cares about sustainability)\n    \n- **Casual buyer** (would make better choices if nudged)\n    \n- **Bulk buyers/corporate teams** (interested in group savings)\n- Big corporates who want to have a positive impact \nSuccess Metric \n",
+      "type": "text",
+      "width": 1061,
+      "x": 4860,
+      "y": -1880
+    },
+    {
+      "height": 60,
+      "id": "dd9ee00bdab895d5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Amazon Hackon",
+      "type": "text",
+      "width": 260,
+      "x": 5420,
+      "y": -340
+    },
+    {
+      "height": 67,
+      "id": "383c54bbf0384985",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sustainable shopping experience ",
+      "type": "text",
+      "width": 265,
+      "x": 5421,
+      "y": -219
+    },
+    {
+      "height": 238,
+      "id": "683310ef74cf2500",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "Develop an AI-powered solution to recommend eco-friendly products and have a dedicated green store with optimum product grading and create customer dashboards showing their contribution to carbon footprint reduction. Include features for sustainable packaging choices and group buying to reduce environmental impact.",
+      "type": "text",
+      "width": 488,
+      "x": 5331,
+      "y": -98
+    },
+    {
+      "height": 60,
+      "id": "4b24fa6bd5a39461",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Problems",
+      "type": "text",
+      "width": 260,
+      "x": 4718,
+      "y": 238
+    },
+    {
+      "height": 60,
+      "id": "acc6941a40866b08",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Who is my customer ",
+      "type": "text",
+      "width": 260,
+      "x": 5291,
+      "y": 236
+    },
+    {
+      "height": 60,
+      "id": "51e01dd59408ef46",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Success metric ",
+      "type": "text",
+      "width": 260,
+      "x": 5658,
+      "y": 236
+    },
+    {
+      "height": 60,
+      "id": "c04c3f06ee7f7154",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Impact ",
+      "type": "text",
+      "width": 260,
+      "x": 5972,
+      "y": 232
+    },
+    {
+      "height": 60,
+      "id": "a3c9c57eef213cc0",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Scalability ",
+      "type": "text",
+      "width": 260,
+      "x": 6318,
+      "y": 242
+    },
+    {
+      "height": 60,
+      "id": "34ee4977ac7f674b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Marketplace expansion ",
+      "type": "text",
+      "width": 260,
+      "x": 6613,
+      "y": 251
+    },
+    {
+      "height": 60,
+      "id": "0cf4d314246ce57c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Architecture ",
+      "type": "text",
+      "width": 260,
+      "x": 6946,
+      "y": 243
+    },
+    {
+      "height": 60,
+      "id": "afedc2cc6a1784f9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Others ",
+      "type": "text",
+      "width": 260,
+      "x": 7368,
+      "y": 247
+    },
+    {
+      "height": 257,
+      "id": "054f446a42af7007",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "1. Customers struggle to identify products that have a positive impact \n2. No transparency in impact of the product \n3. Lack of a centralised experience where users can see their Impact ",
+      "type": "text",
+      "width": 394,
+      "x": 4717,
+      "y": 427
+    },
+    {
+      "height": 60,
+      "id": "1914c1c18dba7066",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Scope for innovation ",
+      "type": "text",
+      "width": 260,
+      "x": 4987,
+      "y": 237
+    },
+    {
+      "height": 299,
+      "id": "82c348a13bd763c2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "1. **Eco-conscious shopper** (cares about sustainability)\n2. **Casual buyer** (would make better choices if nudged)\n3. **Bulk buyers/corporate teams** (interested in group savings)\n4. **Big Corporates**: Who have green aims in their agendas ",
+      "type": "text",
+      "width": 338,
+      "x": 5240,
+      "y": 420
+    },
+    {
+      "height": 338,
+      "id": "ee69aa3492213e8a",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "1. % of greener orders \n2. Reduction carbon footprint over time for a user\n3. Engagement with green dashboard \n4. Number of group buying orders \n5. % of corporates selecting greener options ",
+      "type": "text",
+      "width": 322,
+      "x": 5614,
+      "y": 410
+    },
+    {
+      "height": 418,
+      "id": "b6023617c386889f",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "1. Reduction in environmental harm \n2. Promotes eco-conscious consumer behavior\n3. Encourage sellers to improve product grading\n4. Builds transparency and trust in sustainability claims",
+      "type": "text",
+      "width": 288,
+      "x": 5951,
+      "y": 461
+    },
+    {
+      "height": 300,
+      "id": "89fcc27f5e5e7edb",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "1. The chosen stack ensures that the platform is scalable, supporting an increasing number of users, markets, and regions without sacrificing performance.",
+      "type": "text",
+      "width": 299,
+      "x": 6280,
+      "y": 460
+    },
+    {
+      "height": 60,
+      "id": "567f3f19808f2d0c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Approach Details ",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 1060
+    },
+    {
+      "height": 931,
+      "id": "facd794490a2bf34",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "#### ✅ Solution Overview:\n\nCreate a **sustainability-first shopping layer** on top of e-commerce that includes:\n\n1. **AI-Based Product Recommendation System**\n    \n    - Suggest eco-friendly alternatives using product metadata\n        \n    - Use a scoring model based on material, brand sustainability, carbon cost, and customer reviews\n        \n2. **Green Storefront and Product Grading**\n    \n    - Display a special “Green Store” with verified eco-products\n        \n    - Grade products (A to E) on sustainability using visual badges and transparency scores\n        \n3. **Sustainability Dashboard for Customers**\n    \n    - Track personal impact: trees saved, emissions reduced, sustainable purchases made\n        \n    - Gamify it with ranks, badges, or achievements\n        \n4. **Sustainable Packaging Options at Checkout**\n    \n    - Allow customers to choose between standard and eco-packaging\n        \n    - Show environmental savings (e.g., “You just saved 100g of plastic!”)\n        \n5. **Group Buying Module**\n    \n    - Enable eco-conscious customers to form buying groups\n        \n    - Consolidate deliveries → reduced emissions\n        \n    - Incentivize bulk buying for eco goods",
+      "type": "text",
+      "width": 606,
+      "x": 5600,
+      "y": 1180
+    },
+    {
+      "height": 345,
+      "id": "82dff4964484c235",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "| Layer              | Tools                                                      |\n| ------------------ | ---------------------------------------------------------- |\n| **Frontend**       | React.js + Tailwind CSS                                    |\n| **Backend**        | Node.js + Express.js                                       |\n| **Database**       | MongoDB (User profiles, product metadata, scoring)         |\n| **AI/ML**          | Python + scikit-learn or TensorFlow for ranking            |\n| **NLP**            | spaCy or BERT for parsing product descriptions (if needed) |\n| **Web Scraping**   | BeautifulSoup/Scrapy for collecting product/brand info     |\n| **Authentication** | Firebase Auth or OAuth2 + JWT                              |",
+      "type": "text",
+      "width": 687,
+      "x": 6260,
+      "y": 1480
+    },
+    {
+      "height": 60,
+      "id": "8db8eb9ccd1559ed",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Technical Stack",
+      "type": "text",
+      "width": 260,
+      "x": 6430,
+      "y": 1276
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+1. The software in the operating system that usually manages the disk to store data *persistently* is called the *file system*

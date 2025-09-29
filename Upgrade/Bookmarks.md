@@ -1,0 +1,17 @@
+1. [Pirate King - CP/ Project](https://www.piratekingdom.com/leetcode/cheat-sheet)
+2. [D2 Playground : Site to make customizable flowcharts using code](https://play.d2lang.com/)
+3. [Striver DSA sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+4. [Roadmaps of literally everything](https://roadmap.sh/get-started)
+5. [List of Movies/ TV shows sites](https://tbcpl.lol)
+6. [Questions on DBMS, OS, DSA, ALGO, etc.](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/)
+7. [The Easypeasy method to quit  porn](https://easypeasymethod.org/)
+8. [Ai ppt make](https://gamma.app/)
+9. [Developer Survey Worldwide ](https://survey.stackoverflow.co/2024/)
+10. [Python notebooks to learn ML](https://udlbook.github.io/udlbook/)
+11. [Learn Transformers in ML](https://web.stanford.edu/class/cs25/)
+12. [intranet site which has all kinds of software links](http://10.15.7.78:9999/#/)
+## Design  Ideas 
+1. [Portfolios for design ideas](https://github.com/emmabostian/developer-portfolios)
+2. [For backgrounds in webpages](https://app.haikei.app/)
+3. [Generate color pallets for apps](https://coolors.co/1c3144-d00000-ffba08-a2aebb-3f88c5)
+

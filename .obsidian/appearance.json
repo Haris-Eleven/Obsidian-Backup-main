@@ -1,0 +1,13 @@
+{
+  "cssTheme": "LYT Mode",
+  "accentColor": "#3bba61",
+  "baseFontSize": 24,
+  "enabledCssSnippets": [
+    "canvas-text-align",
+    "clean-embeds"
+  ],
+  "theme": "system",
+  "showRibbon": true,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}
