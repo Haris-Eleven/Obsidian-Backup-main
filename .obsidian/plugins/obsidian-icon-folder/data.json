@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#7c65ab",
     "recentlyUsedIcons": [
-      "LiTarget",
-      "LiCode",
-      "LiFolders",
-      "LiFolder",
-      "LiFile"
+      "FabPython",
+      "LiPenTool",
+      "LiExcalidrawIcon",
+      "LiFile",
+      "LiSquareSigma"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,8 +44,6 @@
   "Programming": "LiFolders",
   "Templates": "LiFolder",
   "Upgrade": "LiFolder",
-  "Passport documents.md": "LiFile",
-  "Shopping List.md": "LiFile",
   "Upgrade/Bookmarks.md": "LiFile",
   "Upgrade/Goals.md": "LiFile",
   "Templates/Template, Daily Notes.md": "LiFile",
@@ -54,7 +52,6 @@
   "Programming/Computer Fundamentals": "LiFolder",
   "Daily Notes/2025": "LiFolders",
   "Programming/General Programming.md": "LiFile",
-  "Programming/ML DL.md": "LiFile",
   "Programming/Projects.md": "LiFile",
   "Excalidraw/Scripts": "LiFolder",
   "Excalidraw/Scripts/Downloaded": "LiFolder",
@@ -67,7 +64,6 @@
   "Archived/Sem 4/Green Science.md": "LiFile",
   "Archived/Sem 4/IOT.md": "LiFile",
   "Archived/Sem 4/microprocessors.md": "LiFile",
-  "Atlassian.md": "LiFile",
   "Philosophia.md": "LiFile",
   "Upgrade/10x.md": "LiFile",
   "Upgrade/Hacks.md": "LiFile",
@@ -85,6 +81,7 @@
   "Programming/Computer Fundamentals/OS": "LiFolder",
   "Programming/Android.md": "LiFile",
   "Programming/MLCC.md": "LiFile",
-  "OA Prep.md": "LiCode",
-  "Semester-5/EMT.md": "LiFile"
+  "Maths.md": "LiSquareSigma",
+  "Semester-5/EMT.md": "LiFile",
+  "Programming/CP.md": "LiPenTool"
 }

@@ -48,6 +48,11 @@ $$
 **Pearson's correlation coefficient**
 $$r_{XY} = \frac{\text{Cov}(X, Y)}{\sigma_X \cdot \sigma_Y}
 $$
+## Normal Equations
+Direct method to find the value that minimizes the loss function using mathematics.
+$$
+X^TX\theta = X^TY
+$$
 
 # Logistic Regression
 
@@ -72,7 +77,6 @@ $$
 
 # Classification
 Classification is the task of predicting which of a set of classes (categories) an example belongs to
-
 ## Confusion Matrix
 
 ![[Pasted image 20250811202138.png]]**Accuracy** is the proportion of all classifications that were correct, whether positive or negative.
@@ -82,6 +86,11 @@ The **true positive rate (TPR),** or the proportion of all actual positives that
 The **false positive rate (FPR)** is the proportion of all actual negatives that were classified *incorrectly* as positives, also known as the **probability of false alarm**.
 
 **Precision** is the proportion of all the model's positive classifications that are actually positive.
+
+# Generative Discriminant Analysis (GDA)
+
+# Naive Bayes
+## Laplace Smoothing
 
 ---
 

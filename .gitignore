@@ -2,4 +2,4 @@
 Thumbs.db
 *.tmp
 .obsidian/cache
-.obsidian\plugins\obsidian-google-tasks
+.obsidian/plugins/obsidian-google-tasks/data

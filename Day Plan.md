@@ -1,0 +1,24 @@
+- [ ] Day 1: 
+- Create and configure your Next.js app
+- Set up TypeScript, folder structure, and Git
+- Plan your core routes
+- Make a rough backend diagram
+- [ ] Day 2: 
+- Implement `/api/upload` route to accept files or text.
+- Store data locally or in temporary storage (MongoDB or filesystem).
+- [ ] Day 3:
+- Create homepage with file or text upload form.
+- Connect to `/api/upload`.
+- [ ] Day 4:
+- Implement `/api/download/[id]` route.
+- Serve files or text when requested.
+- [ ] Day 5:
+- Make `app/share/[id]/page.tsx` display or auto-download the shared content.
+- [ ] Day 6:
+- Handle errors, invalid IDs, and expired files.
+- Add expiry (like “auto-delete after 24h”).
+- [ ] Day 7:
+- Test everything end-to-end.
+- 
+- Deploy to Vercel (best for Next.js).
+- Add optional bonus features.
