@@ -38,12 +38,45 @@
             "id": "1c4211f5e19a4074",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Programming/Development.md"
+                "file": "Philosophia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Development"
+              "icon": "lucide-file",
+              "title": "Philosophia"
+            }
+          },
+          {
+            "id": "121ad51992077df2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d0709a8d7da7d673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Dev/Javascript.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript"
             }
           },
           {
@@ -94,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "serverless",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,15 +242,21 @@
       "obsidian-google-tasks:Google Tasks": false
     }
   },
-  "active": "ec638548a87df27d",
+  "active": "121ad51992077df2",
   "lastOpenFiles": [
+    "Philosophia.md",
+    "Untitled.md",
+    "Programming/Computer Fundamentals/System Design.md",
     "Sonic Share.md",
-    "Day Plan.md",
+    "Upgrade/Bookmarks.md",
+    "Programming/Dev/Javascript.md",
+    "Programming/Dev/React.md",
+    "Programming/Dev/Node JS.md",
     "Programming/Development.md",
+    "Day Plan.md",
     "Programming/MLCC.md",
     "Machine Leaning.md",
     "Upgrade/10x.md",
-    "Upgrade/Bookmarks.md",
     "Upgrade/Learning.md",
     "Upgrade/Motivation.md",
     "Programming/Projects.md",
@@ -230,13 +269,8 @@
     "Daily Notes/2025/May/Saturday-31.md",
     "Templates/Template, Daily Notes.md",
     "Daily Notes/2025/September/07-Sunday.md",
-    "Untitled.md",
     "LGFS.md",
-    "Philosophia.md",
     "Maths.md",
-    "Programming/CP.md",
-    "Atlassian.md",
-    "Shopping List.md",
     "attachments/Pasted image 20250925144427.png",
     "attachments/Pasted image 20250923111433.png",
     "attachments/Pasted image 20250923103103.png",
