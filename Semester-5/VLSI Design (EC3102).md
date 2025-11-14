@@ -143,3 +143,8 @@ Following figure of merits
 11. GDSII
 # FPGA
 ## Design approach
+# Ratioed Cmos
+## Body Effect : 
+Effect of S -> B voltage 
+
+# Neuromorphic Computing

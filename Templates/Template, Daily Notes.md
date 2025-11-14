@@ -10,11 +10,11 @@ Time (in hours): "0"
 
 ---
 
-## *Look Back on Yesterday*
+## *Look Back on Today*
 - 
 
 
-## *Plan for Today*
-- 
+## *Plan for Tomorrow*
+- [ ] 
 
 ---
